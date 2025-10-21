@@ -72,12 +72,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Desenvolvido com 💙 por [isaac.ggr](https://github.com/isaac.ggr)
 
+Este projeto foi desenvolvido com base no curso **Java Backend 360°: Web Services API com Spring Boot e JPA** ministrado por **Carlos Tosin** (Plataforma: Udemy).
+
 ---
-
-<div align="center">
-
-**[Documentação](docs/TECHNICAL.md)** •
-**[Reportar Bug](https://github.com/isaac.ggr/pmanager/issues)** •
-**[Solicitar Feature](https://github.com/isaac.ggr/pmanager/issues)**
-
-</div>
